@@ -1,6 +1,7 @@
 import itertools
 import sys
 import os.path
+from sys import exit
 
 #verileri oku
 ##return data[]: dosyadan gelen itemlar
