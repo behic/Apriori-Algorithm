@@ -1,0 +1,7 @@
+Transaction ITEMS
+T1 I1, I2
+T2 I3, I4
+T3 I5, I6
+T4 I1, I3, I6
+T5 I1, I3, I4, I5, I6
+T6 I1, I3, I5, I6
